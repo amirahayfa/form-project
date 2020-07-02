@@ -1,0 +1,45 @@
+.added-main{
+  background-color: #1A5276;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.container{
+}
+
+.added-main h2{
+  color: white;
+  margin-bottom: 20px;
+  padding-left: 100px;
+}
+.added-main h3{
+  color: white;
+  font-size: 15px;
+}
+.added-main p{
+  color: white;
+  font-size: 12px;
+}
+input, textarea{
+  width: 300px;
+  padding: 8px;
+  border: 1px solid #FFFF;
+}
+.contact-form{
+  border-top: 1px solid #F7F49C;
+  padding-left: 100px;
+  line-height: 8px;
+  padding-top: 20px;
+}
+body input[type=submit]{
+  margin-top: 15px;
+  text-align: center;
+  width: 320px;
+  background-color: #F7F49C ;
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px solid #F7F49C;
+}
+body input[type=submit]:hover {
+  background-color: #979816  ;
+  color: white;
+}
